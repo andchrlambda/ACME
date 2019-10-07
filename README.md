@@ -7,4 +7,6 @@ Required files for this project incldue:
 acme.py
 acme_report.py
 acme_test.py
-Unit3-Sprint1-SprintChallenge
+Unit3-Sprint1-SprintChallenge.md
+
+All scripts are ready to execute. 
